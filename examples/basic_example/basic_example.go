@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/gtuk/discordwebhook"
+	"github.com/combo23/discordwebhook"
 )
 
 func main() {
@@ -21,4 +21,3 @@ func main() {
 		log.Fatal(err)
 	}
 }
-
